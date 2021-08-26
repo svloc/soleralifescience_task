@@ -42,25 +42,28 @@
   display: flex;
   flex-direction: row;
   gap: 1em;
+  color: #142b6f;
   margin: 3em auto;
-  overflow: auto;
+  overflow: hidden;
   white-space: wrap;
 }
 .section-card-body {
   margin: 0 auto;
-  flex: 0 0 235px;
+  flex: 0 0 135px;
 }
 .section-card-img {
-  width: 90%;
-  height: 80px;
+  width: 226px;
+  height: 127px;
   object-fit: content;
+}
+.section-card-img:hover {
+  transform: scale(1.1); 
 }
 .section-card-text {
   font-size: 20px;
-  /* width: 100%; */
   text-align: center;
   margin: -8px 17px;
-  padding: 8px 0px;
+  padding: 12px 0px;
 }
 
 .main-heading {
@@ -79,6 +82,7 @@
 }
 .text-icon {
   margin: 1.5em 0;
+  color: #142b6f;
 }
 .menu-icon-body {
   display: flex;

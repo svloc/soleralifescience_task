@@ -52,27 +52,66 @@ export default function Home() {
    </div> 
    <div className="section"> 
     <div className="section-body"> 
-     <img className="capsule-img" src="https://res.cloudinary.com/wnotw/images/c_limit,w_1536,q_auto:eco,f_auto/v1567021288/wryewcirkoxrp8jnk8co/ritual-brand-photography" alt="capsule-img" /> 
+     <img className="capsule-img" src="../home-feat-dyson.jpg" alt="capsule-img" /> 
     </div> 
     <div className="section-body"> 
      <h2 className="heading">We're not about pseudoscience and half-truths</h2> 
      <p className="text">From Omega-3 DHA from microalgae to regeneratively-farmed pea protein, our scientists studied diets and genetics to make daily essentials based on what we need.</p> 
-     <a className="link">Who We Are</a> 
+     <br /> 
+     <a className="link">  Multivitamin for Women 18+</a> <br /> 
+     <br /> <br /> 
+     <a className="link">The Prenatal Multivitamin</a> <br /> 
+     <br /> <br /> 
+     <a className="link">Multivitamin for Men 18+</a> <br /> 
+     <br /> <br /> 
+     <a className="link">Essential Protein Daily Shake 18+</a> <br /> 
+     <br /> 
+
     </div> 
    </div> 
    <div className="section"> 
     <div className="section-body section2-item-1"> 
-     <img className="capsule-img" src="https://res.cloudinary.com/wnotw/images/c_limit,w_1536,q_auto:eco,f_auto/v1567021288/wryewcirkoxrp8jnk8co/ritual-brand-photography" alt="capsule-img" /> 
+     <img className="capsule-img" src="../Home-Map.jpg" alt="map-img" /> 
     </div> 
     <div className="section-body section2-item-2"> 
      <h2 className="heading">You deserve traceability</h2> 
      <p className="text">We share our sources, studies, and suppliers — daily essentials backed by the first visible supply chain of its kind.</p> 
+     <br /> 
+
+     <a className="link">Who We Are</a> 
+     <br /> 
+     <br /> 
+     <br /> 
      <a className="link ">Meet Our Ingradients</a> 
+     <br /> 
      <br /> 
      <br /> 
      <a className="link">Our Clinical Study</a> 
     </div> 
    </div> 
+   <div className="section"> 
+    <div className="section-body"> 
+     <img className="capsule-img" src="../Home-Feat-03.jpg" alt="feat-img" /> 
+    </div> 
+    <div className="section-body"> 
+     <h2 className="heading">Clean and simple, delivered</h2> 
+     <p className="text">Easy-to-start. Easy-to-cancel. Our team of scientists and nutritional experts are on a mission to turn your new healthy habit into a Ritual.*</p> 
+
+        <p className="link-p"> Free shipping</p>
+        <br /> 
+     <br /> 
+        <p className="link-p">Control your delivery date</p>   <br /> 
+     <br /> 
+
+    <p className="link-p">Free and easy cancellation</p>   <br /> 
+     <br /> 
+
+    <p className="link-p">30-day money back guarantee</p>   <br /> 
+     <br /> 
+    </div> 
+   </div> 
+
+
    <h2 className="heading">Feature Products</h2> 
    <a className="link">Shop All</a> 
    <div className="feature-card"> 

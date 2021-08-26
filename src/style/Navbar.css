@@ -1,0 +1,105 @@
+.navbar-header {
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.navbar {
+  display: flex;
+  color: #142b6f;
+  padding: 7px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hamburger {
+  display: flex;
+  width: 20%;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.clipboard-image {
+  width: 14%;
+  image-rendering: -webkit-optimize-contrast;
+  height: 26px;
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-comp {
+  list-style: none;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #142b6f;
+}
+.wrap-who-we-are {
+  margin-left: 1rem;
+  font-size: 16px;
+  font-weight: 400;
+  color: #142b6f;
+}
+.side-menu {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #142b6f;
+}
+.nav-logo {
+  font-size: 2.1rem;
+  font-weight: 500;
+  color: #142b6f;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+.navbar-links {
+  padding-top: 80px;
+  padding-left: 52px;
+}
+.sidenav a {
+  padding: 8px 8px 8px 0px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #000;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media only screen and (max-width: 900px) {
+  .sidenav {
+    padding-top: 1px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+  .wrap-who-we-are {
+    display: none;
+  }
+  .clipboard-image {
+    width: 52%;
+    image-rendering: -webkit-optimize-contrast;
+    height: 42px;
+  }
+  .nav-item {
+    margin: 2.5rem 0;
+  }
+  .hamburger {
+    display: block;
+  }
+}

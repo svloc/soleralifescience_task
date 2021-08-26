@@ -118,34 +118,7 @@
   width: 100%;
   padding: 1.5em 0;
 }
-.feature-card {
-  display: flex;
-  flex-direction: row;
-  gap: 1.5em;
-  margin: 2em auto;
-  overflow: auto;
-}
-.card-body {
-  margin: 0 auto;
-  flex: 0 auto;
-}
-.card-img {
-  width: 100%;
-  height: 222px;
-  object-fit: content;
-  border-radius: 0.75rem;
-}
-.card-link {
-  font-size: 1rem;
-  color: #142b6f;
-}
-.card-heading {
-  font-size: 1.1rem !important;
-}
-.card-text {
-  font-size: 1rem;
-  color: #142b6f;
-}
+
 
 @media (min-width: 620px) {
   .header {

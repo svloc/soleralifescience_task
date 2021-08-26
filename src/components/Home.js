@@ -112,34 +112,7 @@ export default function Home() {
    </div> 
 
 
-   <h2 className="heading">Feature Products</h2> 
-   <a className="link">Shop All</a> 
-   <div className="feature-card"> 
-    <div className="card-body"> 
-     <img className="card-img" src="https://images.squarespace-cdn.com/content/v1/5d2f32a7d7d7d4000170b3c9/1565122779843-4K6N8A6G8TX9GTTSK8ZH/landing-left-right-01.jpg?format=500w" /> 
-     <a className="card-link">Essentials For Women</a> 
-     <h2 className="heading card-heading">Multivitiamin 18+</h2> 
-     <p className="card-text">The clinical-backed multivitiamin, reimagined for women 18+</p> 
-    </div> 
-    <div className="card-body"> 
-     <img className="card-img" src="https://images.squarespace-cdn.com/content/v1/5d2f32a7d7d7d4000170b3c9/1565122779843-4K6N8A6G8TX9GTTSK8ZH/landing-left-right-01.jpg?format=500w" /> 
-     <a className="card-link">Essentials For Women</a> 
-     <h2 className="heading card-heading">Prenatal Multivitiamin</h2> 
-     <p className="card-text">The prenatal multivitiamin for thinking,trying and when it's time.</p> 
-    </div> 
-    <div className="card-body"> 
-     <img className="card-img" src="https://images.squarespace-cdn.com/content/v1/5d2f32a7d7d7d4000170b3c9/1565122779843-4K6N8A6G8TX9GTTSK8ZH/landing-left-right-01.jpg?format=500w" /> 
-     <a className="card-link">Essentials Protein</a> 
-     <h2 className="heading card-heading">Daily Shake 18+</h2> 
-     <p className="card-text">The reimagined plant-based protein for adult 18-49</p> 
-    </div> 
-    <div className="card-body"> 
-     <img className="card-img" src="https://images.squarespace-cdn.com/content/v1/5d2f32a7d7d7d4000170b3c9/1565122779843-4K6N8A6G8TX9GTTSK8ZH/landing-left-right-01.jpg?format=500w" /> 
-     <a className="card-link">Essentials For Men</a> 
-     <h2 className="heading card-heading">Multivitiamin 18+</h2> 
-     <p className="card-text">Formulated for men 18-49 to help fill nutrient gaps in their diet.*</p> 
-    </div> 
-   </div> 
+  
   </div>
     </>
   );

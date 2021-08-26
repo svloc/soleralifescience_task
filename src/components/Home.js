@@ -11,20 +11,20 @@ export default function Home() {
      <div className="container"> 
    <div className="section-card"> 
     <div className="section-card-body"> 
-     <img className="section-card-img" src="https://images.squarespace-cdn.com/content/v1/5d2f32a7d7d7d4000170b3c9/1565122779843-4K6N8A6G8TX9GTTSK8ZH/landing-left-right-01.jpg?format=500w" /> 
-     <h2 className="section-card-text">Multivitiamin</h2> 
+     <img className="section-card-img" src="../Category-Multivitamin.jpg" /> 
+     <h2 className="section-card-text">Stop Multivitiamin</h2> 
     </div> 
     <div className="section-card-body"> 
-     <img className="section-card-img" src="https://images.squarespace-cdn.com/content/v1/5d2f32a7d7d7d4000170b3c9/1565122779843-4K6N8A6G8TX9GTTSK8ZH/landing-left-right-01.jpg?format=500w" /> 
-     <h2 className="section-card-text">Multivitiamin</h2> 
+     <img className="section-card-img" src="../Category-Protein__1_.jpg" /> 
+     <h2 className="section-card-text">Shop protein</h2> 
     </div> 
     <div className="section-card-body"> 
-     <img className="section-card-img" src="https://images.squarespace-cdn.com/content/v1/5d2f32a7d7d7d4000170b3c9/1565122779843-4K6N8A6G8TX9GTTSK8ZH/landing-left-right-01.jpg?format=500w" /> 
-     <h2 className="section-card-text">Multivitiamin</h2> 
+     <img className="section-card-img" src="../Category-Pregnancy__1_.jpg" /> 
+     <h2 className="section-card-text">Shop Pregnancy</h2> 
     </div> 
     <div className="section-card-body"> 
-     <img className="section-card-img" src="https://images.squarespace-cdn.com/content/v1/5d2f32a7d7d7d4000170b3c9/1565122779843-4K6N8A6G8TX9GTTSK8ZH/landing-left-right-01.jpg?format=500w" /> 
-     <h2 className="section-card-text">Multivitiamin</h2> 
+     <img className="section-card-img" src="../Category-Bundles.jpg" /> 
+     <h2 className="section-card-text">Shop Bundles</h2> 
     </div> 
    </div> 
    <h2 className="heading main-heading">Daily essentials with good intentions — for living life or creating it.</h2> 
